@@ -28,8 +28,8 @@ export default {
     owner: null, // optional
     foundingYear: null,
 
-    phone: null, // TODO: full number needed — '+1 872 278 585' was one digit short,
-    phoneE164: null,
+    phone: '(872) 278-5851',
+    phoneE164: '+18722785851',
     email: null, // optional — hidden until set; visitors use the contact form
 
     /**

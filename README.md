@@ -33,7 +33,7 @@ and won't send. Setup steps: `docs/N8N-FORM-SETUP.md`.
 
 ## Office
 
-**1918 N Mendell St, Chicago, IL 60642** (storefront office). Phone: **to be provided** (the number received was one digit short).
+**1918 N Mendell St, Chicago, IL 60642** (storefront office). Phone: **(872) 278-5851**.
 
 ## Structure
 

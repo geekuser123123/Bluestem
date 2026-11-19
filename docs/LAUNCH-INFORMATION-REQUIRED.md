@@ -5,7 +5,7 @@ Run `node build.mjs` to see what's still missing. Nothing on the site has been i
 ## Already set
 
 - [x] Name: **Bluestem**
-- [x] Phone: **[phone — full number to be provided]**
+- [x] Phone: **(872) 278-5851**
 - [x] Site URL: `https://bluestem.kevin-c4h.workers.dev`
 - [x] Hours: **Monday–Friday, 9:00 AM – 5:00 PM (Central Time)**, office meetings by appointment
 - [x] Business type: **storefront office** at **1918 N Mendell St, Chicago, IL 60642** (Google Business Profile "Local store")

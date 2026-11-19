@@ -18,7 +18,7 @@ Use this **after** the website is live and Search Console is verified.
   hours. Google requires a **complete, real street address that is staffed during those hours**.
 - **Address:** **1918 N Mendell St, Chicago, IL 60642**, entered exactly as on the website.
   If the office has a suite number, add it to both.
-- **Phone:** **[phone — full number to be provided]**.
+- **Phone:** **(872) 278-5851**.
 - **Hours:** Monday–Friday, 9:00 AM – 5:00 PM.
 - **Primary category:** **Financial consultant**.
 - **Secondary category:** **Business administration service**.
